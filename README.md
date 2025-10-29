@@ -1,94 +1,79 @@
-🏆 UEFA Champions League — Tableau Analytics Dashboard
-📌 Project Overview
+# 🏆 UEFA Champions League Data Visualization Dashboard
 
-This interactive Tableau project explores the rich history of the UEFA Champions League, bringing together multiple datasets on clubs, players, coaches, goals, and appearances. It highlights performance trends, legendary figures, and competitive dominance across eras — all in a visually immersive Champions League–themed dark UI.
+An interactive data analytics dashboard built using **Tableau** to explore historical insights from the UEFA Champions League — Europe’s most prestigious club football competition.
 
-The dashboard allows users to:
+This project highlights **top clubs, players, managers, goals, titles**, and many more performance metrics across UCL history.
 
-Compare top-performing clubs throughout UCL history
+---
 
-Analyze the greatest goal scorers of all time
+## 📊 Dashboard Insights
 
-Explore legendary coaches and their achievements
+### 👑 Player Statistics
+- **Top 10 players by appearances**
+- **Top goal scorers** — Cristiano Ronaldo, Lionel Messi, Robert Lewandowski, etc.
+- Seasonal records such as:
+  - Most goals in one season: Cristiano Ronaldo (17)
+  - Most appearances in a single season: Raúl González (15)
 
-View player appearances and career longevity
+### 🏟️ Club Performance
+- Clubs with the **most matches played** (200+ matches)
+- **Goals scored** (Real Madrid leading with 1,047+)
+- **Goals For vs Goals Against** comparison charts
 
-Understand the evolution and growth of the tournament
+### 🎯 Coaching Expertise
+- **Top 10 coaches by number of appearances**
+- Managers like **Carlo Ancelotti**, **Sir Alex Ferguson**, **Arsène Wenger**
 
-📊 Key Features
-Category	Highlights
-Clubs	All-time points, wins/draws/losses, titles won, appearances
-Players	Top goal scorers, matches played, generation-based comparisons
-Coaches	Most matches managed, trophies won, national representation
-Visual Design	Official UCL inspired dark theme, logos/icons, interactive filters & parameters
+### 🏅 Title Dominance
+- **All-time winners ranking** — Real Madrid (14), AC Milan (7), Liverpool (6)
+- **Titles by country** — Spain, Italy, England, Germany leading the charts
 
-✔ Dynamic filters & search
-✔ Club & player image integration
-✔ Story navigation pages for smooth analysis
-✔ Clean and modern UI inspired by UEFA branding
+---
 
-🛠️ Tools & Technologies
-Tool	Purpose
-Tableau Desktop / Tableau Public	Data visualization & dashboard development
-Microsoft Excel / CSV	Data preprocessing
-Custom Styling	Hex colors from UCL brand theme
-📂 Dataset Information
+## 🧰 Tools & Technology
 
-The dashboard uses five structured CSV files (included in the repository):
+| Category | Tools Used |
+|---------|------------|
+| Visualization | Tableau |
+| Data Wrangling | Excel / Python |
+| Data Sources | UEFA Stats, Transfermarkt, FBref |
+| Design Elements | Maps, Filters, Custom Color Palette |
 
-AllTimeRankingByClub.csv
-→ Club-wise points, matches, appearances, wins, trophies
+---
 
-PlayerGoalTotals.csv
-→ Goals scored by players (scoring stats)
+## 🔍 Key Skills Demonstrated
 
-TopGoalScorer.csv
-→ All-time leading scorers with standings
+✅ Sports Data Analysis  
+✅ Data Cleaning & Transformation  
+✅ Dashboard UI & UX Design  
+✅ Visual Storytelling  
+✅ Insight Generation for Analysts & Fans  
 
-PlayerAppearDetails.csv
-→ Player match appearances and career span
+---
 
-CoachesAppearTotals.csv
-→ Coach performances ranked by matches & achievements
+## 📂 Project Files Included
 
-Source: Public football historical repository (UEFA statistics)
+- ✅ Dataset Files (`.csv`)
+- ✅ README Documentation
 
-📈 Dashboard Navigation (Pages)
-Page Title	Analysis Focus
-Champions League Legacy	Tournament summary & growth
-Greatest Clubs	All-time performance leaderboard
-Top Goal Scorers	Player excellence metrics
-Legendary Coaches	Managerial achievements
-Player Appearance Analysis	Career longevity & role insights
-📌 Insights Uncovered
 
-Some key findings from the analytics include:
+---
 
-Real Madrid maintains the highest dominance with record points & titles
+## 📝 License & Usage
 
-Cristiano Ronaldo and Lionel Messi lead the goal-scoring legacy
+This project is for **educational and portfolio purposes only**.  
+UEFA data and logo belong to their respective owners.
 
-Carlo Ancelotti is the most successful coach in UCL history
+---
 
-Player participation has increased across modern eras
+## 🙌 Acknowledgments
 
-🎯 Purpose of the Project
+Special thanks to:
+- UEFA Official Records  
+- Global Football Community  
+- Tableau Public Gallery  
 
-This project is aimed to:
+---
 
-Demonstrate data storytelling & visual analytics skills
+### ⭐ If you like this project, don’t forget to **Star the repo** on GitHub!
 
-Present a sports intelligence dashboard with interactive KPIs
-
-Show expertise in Tableau, data modeling, visualization design
-
-Useful for resume & portfolio presentation across:
-✅ Data Analysis
-✅ Sports Analytics
-✅ Business Intelligence
-
-📞 Contact
-
-Created by Mohammad Rayyan
-For collaboration or feedback:
-📧 (Add your email/LinkedIn/GitHub here)
